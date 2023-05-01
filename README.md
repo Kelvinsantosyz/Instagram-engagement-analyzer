@@ -1,5 +1,5 @@
-# Instagram Engagement Analyzer
-## Este script analisa o engajamento das postagens de um perfil do Instagram.
+# Analisador de engajamento do Instagram
+ Este script analisa o engajamento das postagens de um perfil do Instagram.
 
 # Instalação
 Este script requer o Python 3 e as bibliotecas instaloader e matplotlib. Você pode instalá-las executando o seguinte comando:
