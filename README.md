@@ -19,11 +19,13 @@ O script exibirá um gráfico com a taxa de engajamento de cada postagem ao long
 ###
 # Instagram Engagement Analyzer
 This script analyzes the engagement of a profile's posts on Instagram.
-Installation
+# Installation
 This script requires Python 3 and the instaloader and matplotlib libraries. You can install them by running the following command:
 
 <img src="https://user-images.githubusercontent.com/109118257/235378327-cdbc2e17-f336-4269-8bbb-70ceb5f0da7a.png" width="300">
-How to use
+
+# How to use
+
 Run the script with the following command:
 
 <img src="https://user-images.githubusercontent.com/109118257/235378450-7fe807fe-3fbf-426e-998f-861343333bb0.png" width="300">
