@@ -29,6 +29,7 @@ This script requires Python 3 and the instaloader and matplotlib libraries. You 
 Run the script with the following command:
 
 <img src="https://user-images.githubusercontent.com/109118257/235378450-7fe807fe-3fbf-426e-998f-861343333bb0.png" width="300">
+
 The script will prompt you for your Instagram login credentials, the name of the profile you want to analyze, and the maximum number of posts you want to analyze.
 
 The script will display information about each post, including its creation date and engagement rate. It will also display the average engagement of all analyzed posts.
