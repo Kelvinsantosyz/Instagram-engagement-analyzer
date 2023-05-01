@@ -54,7 +54,7 @@ if __name__ == '__main__':
     username = input("Enter your Instagram username: ")
     password = input("Enter your Instagram password: ")
     target_profile = input("Enter your target profile: ")
-    max_posts = int(input("Quantos posts você quer analisar?: "))
+    max_posts = int(input("How many posts do you want to analyze?: "))
 
     analyzer = InstagramAnalyzer(username, password)
     analyzer.login()
